@@ -12,9 +12,9 @@ app = Flask(__name__)
 
 # Configure Cloudinary
 cloudinary.config( 
-cloud_name ="dkwnwsfz7", 
-api_key ="764752576949631", 
-api_secret ="lLFS5AFJ1aRwAaPJ6Tx7zSPY2RY", # Click 'View API Keys' above to copy your API secret 
+cloud_name ="Cloud Name", #Cloud name from cloudinary
+api_key ="API Key", 
+api_secret ="API Secret key", # Click 'View API Keys' above to copy your API secret 
 secure=True
 )
 
