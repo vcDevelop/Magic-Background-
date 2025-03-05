@@ -55,7 +55,7 @@ This project allows users to upload an image and apply transformations using the
 ## Before and After Examples
 
 ### Before Transformation
-![Before Image](https://raw.githubusercontent.com/vcDevelop/Magic-Background/main/path/to/before_image.jpg)
+![Before Image]([https://raw.githubusercontent.com/vcDevelop/Magic-Background/main/path/to/before_image.jpg](https://ibb.co/hxJWVdzG))
 
 ### After Transformation
 ![After Image](https://raw.githubusercontent.com/vcDevelop/Magic-Background/main/path/to/after_image.jpg)
