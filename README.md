@@ -10,7 +10,7 @@ This project allows users to upload an image and apply transformations using the
 
 ## Technologies Used
 - Flask
-- Cloudinary API ```https://cloudinary.com/documentation/django_image_and_video_upload```
+- [Cloudinary API](https://cloudinary.com/documentation/django_image_and_video_upload)
 - HTML/CSS/JavaScript
 
 ## Installation
@@ -55,7 +55,10 @@ This project allows users to upload an image and apply transformations using the
 ## Before and After Examples
 
 ### Before Transformation
-![Before Image]([https://raw.githubusercontent.com/vcDevelop/Magic-Background/main/path/to/before_image.jpg](https://ibb.co/hxJWVdzG))
+<img src="https://github.com/user-attachments/assets/949dd1df-0ea7-44a9-aa86-ca975a5bc31e" width="300">
+
+### Prompt
+<img src="https://github.com/user-attachments/assets/9e823899-2d53-4d7a-8847-5cecf0e46749" width="300">
 
 ### After Transformation
-![After Image](https://raw.githubusercontent.com/vcDevelop/Magic-Background/main/path/to/after_image.jpg)
+<img src="https://github.com/user-attachments/assets/d075da31-68fc-47ff-bd2c-53125d65a7c1" width="300">
