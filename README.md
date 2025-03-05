@@ -10,7 +10,7 @@ This project allows users to upload an image and apply transformations using the
 
 ## Technologies Used
 - Flask
-- Cloudinary API
+- Cloudinary API ```https://cloudinary.com/documentation/django_image_and_video_upload```
 - HTML/CSS/JavaScript
 
 ## Installation
